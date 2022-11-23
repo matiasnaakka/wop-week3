@@ -1,4 +1,4 @@
-'use strict';
+ 'use strict';
 // catController
 const {getCat, getAllCats, addCat, updateCat, deleteCat} = require(
     '../models/catModel');
